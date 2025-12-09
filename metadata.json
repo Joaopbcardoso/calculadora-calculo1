@@ -1,0 +1,7 @@
+{
+  "name": "CalcMaster AI",
+  "description": "Uma calculadora inteligente de Cálculo 1 capaz de resolver limites, derivadas e integrais passo a passo, com suporte a reconhecimento de imagem.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
